@@ -4491,7 +4491,7 @@ body.js-page-out .pointer {
 
 .footer-logo__img {
 	width: auto;
-	height: 30px;
+	height: 110px;
 }
 
 .footer-logo-desktop-hidden {
@@ -4508,7 +4508,7 @@ body.js-page-out .pointer {
 
 /* Horizontal header */
 .vertical .footer-logo__img {
-	width: 30px;
+	width: 110px;
 	height: auto;
 }
 
